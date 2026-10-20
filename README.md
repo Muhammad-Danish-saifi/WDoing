@@ -1,5 +1,10 @@
 # 🎯 WDoing — Windows Taskbar Focus Bar
 
+
+https://github.com/user-attachments/assets/fea54717-f5de-4ffd-b5ad-76f51bf5926f
+
+
+
 <p align="center">
   <img src="assets/icon.png" width="96" height="96" alt="WDoing Icon" />
 </p>
